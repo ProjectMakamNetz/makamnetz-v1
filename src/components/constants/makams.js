@@ -3161,4 +3161,22 @@ export const makams = [
     desc: "Kadızade Tirevi'ye göre Buselik makamı Hüseyni perdesinden başlar ve Buselik yüzünden Dügah perdesine gelir ve burada karar verir",
     audio: '/records/makamlar/.mp3',
   },
+  // {
+  //   name: 'Buselik (Anadolu Edvar Geleneği)',
+  //   slug: 'buselik (anadolu edvarı geleneği)',
+  //   label: 'Temel Makamlar',
+  //   journey: {
+  //     begin: {
+  //       root1: 'Hüseyni',
+  //       pow1: 'Perde',
+  //     },
+  //     middle: {
+  //       root1: 'Dügah',
+  //       pow1: 'Buselik',
+  //     },
+  //     end: { root1: 'Dügah', pow1: 'Perde' },
+  //   },
+  //   desc: "Kadızade Tirevi'ye göre Buselik makamı Hüseyni perdesinden başlar ve Buselik yüzünden Dügah perdesine gelir ve burada karar verir",
+  //   audio: '/records/makamlar/.mp3',
+  // },
 ]
