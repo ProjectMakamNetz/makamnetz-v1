@@ -2075,8 +2075,8 @@ export const makams = [
         pow2: 'Uşşak',
       },
       middle: {
-        root1: 'Hüseyniaşiran',
-        pow1: 'Uşşak',
+        root1: 'Yegah',
+        pow1: 'Rast',
         root2: 'Neva',
         pow2: 'Buselik',
         root3: 'Rast',

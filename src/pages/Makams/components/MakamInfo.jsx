@@ -1,8 +1,7 @@
 import { Box, Divider, Stack, Text, Title } from '@mantine/core'
-import AudioPlayer from '../../../components/lib/AudioPlayer'
+import AudioPlayer from '../../../lib/AudioPlayer'
 
 export default function MakamInfo({ selectedMakam }) {
-  console.log(selectedMakam)
   return (
     <Box>
       <Stack className='rounded-md' bg='dark.6' p='xs'>

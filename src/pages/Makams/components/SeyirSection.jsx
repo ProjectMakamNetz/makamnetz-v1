@@ -2,13 +2,15 @@ import { Card, Flex, Text } from '@mantine/core'
 
 export default function SeyirSection({ selectedMakam }) {
   return (
-    <Card
-      miw={{ base: '100%', sm: 450, lg: 350 }}
-      maw={{ base: '100%', md: 350 }}
-      radius={'md'}
-      className=' bg-gradient-to-r from-yellow-100 to-yellow-300'
-    >
-      <Flex gap={50} direction={'column'} h={{ base: 'initial', lg: '500' }}>
+    <Card w={'100%'} miw={{ lg: 350 }} radius={'md'} className=' bg-gradient-to-r from-yellow-100 to-yellow-300'>
+      <Flex
+        gap={{
+          base: 20,
+          lg: 80,
+        }}
+        direction={'column'}
+        h={{ base: 'initial', lg: '500' }}
+      >
         <Text
           ff={'Inder'}
           ta={'center'}

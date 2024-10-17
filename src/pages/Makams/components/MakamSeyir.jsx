@@ -7,7 +7,12 @@ import { ArrowRight } from '../../../components/ui/icons'
 export default function MakamSeyir({ selectedMakam }) {
   return (
     <Flex className='py-2 lg:my-8'>
-      <Flex gap={28} direction={{ base: 'column', md: 'row' }} className='relative' wrap={'wrap'}>
+      <Flex
+        gap={28}
+        direction={{ base: 'column', lg: 'row' }}
+        className='relative'
+        wrap={{ base: 'wrap', lg: 'nowrap' }}
+      >
         <GirisSection selectedMakam={selectedMakam} />
         <SeyirSection selectedMakam={selectedMakam} />
         <SonucSection selectedMakam={selectedMakam} />
