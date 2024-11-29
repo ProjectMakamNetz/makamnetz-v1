@@ -187,14 +187,14 @@ export const makams = [
       begin: {
         root1: 'Dügah',
         pow1: 'Perde',
-        root2: 'H.Aşiran',
-        pow2: 'Hicaz',
       },
       middle: {
         root1: 'Dügah',
         pow1: 'Uzzal',
         root2: 'Hüseyni',
         pow2: 'Hicaz',
+        root3: 'H.Aşiran',
+        pow3: 'Hicaz',
       },
       end: { root1: 'Dügah', pow1: 'Uzzal' },
     },
@@ -1900,7 +1900,7 @@ export const makams = [
       },
       end: { root1: 'Rast', pow1: 'Buselik' },
     },
-    desc: 'Rast perdesindeki Buselik çeşnisiyle başlar. Neva ekseninde sırasıyla Kürdi, Hicaz ve Uşşak çeşnilerini gösterir. Ardından Kürdi perdesinde Nigar çeşnisine geçer. Dügah perdesindeki Buselik çeşnisini gösterip karar verir.',
+    desc: 'Rast perdesindeki Buselik çeşnisiyle başlar. Neva ekseninde sırasıyla Kürdi, Hicaz ve Uşşak çeşnilerini gösterir. Ardından Kürdi perdesinde Nigar çeşnisine geçer. Rast perdesindeki Buselik çeşnisini gösterip karar verir.',
     audio: '/records/makamlar/nihavend_ozkan.mp3',
   },
   {
