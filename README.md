@@ -1,8 +1,34 @@
-# React + Vite
+# MakamNetz v1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
 
-Currently, two official plugins are available:
+- **Discover the relationships between scales (Perde) and melodic patterns (Çeşni) in Turkish Music through a visualized network map.**
+- **Explore the modeled journeys of Scales and Patterns based on definitions from sources, and listen to sample recordings.**
+- **Evaluate the connections between Scales and Patterns within a specific makam (mode). Examine the shared structures needed for transitions between different makams.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Mantine**: A modern React component library.
+- **Tailwind**: Utility-first CSS framework.
+- **React Force Graph 2D/3D**: A library for creating 2D and 3D force-directed graphs.
+
+## 🌐 Live Demo
+
+- [Live Demo](https://makamnetz-v1.vercel.app/)
+
+## 🌟 Lighthouse Score
+
+<div align="center">
+  <img src="./lighthouse-makamnetz.png" alt="Lighthouse Score" width="400">
+</div>
+
+## 🌄 Preview
+
+<div align="center">
+  <img src="./preview-makamnetz.png" alt="Preview" width="800">
+</div>
+
+## Author
+
+- LinkedIn - [Gümrah Sindar](https://www.linkedin.com/in/gumrahsindar/)
