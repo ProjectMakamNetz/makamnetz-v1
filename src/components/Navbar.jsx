@@ -134,6 +134,7 @@ export default function Navbar() {
                 href='https://www.youtube.com/@MakamNetz'
                 onClick={close}
               >
+                <span>YouTube</span>
                 <IconBrandYoutubeFilled size={35} />
               </Anchor>
               <Anchor
@@ -142,6 +143,7 @@ export default function Navbar() {
                 href='https://github.com/ProjectMakamNetz'
                 onClick={close}
               >
+                <span>Github</span>
                 <IconBrandGithub size={35} />
               </Anchor>
               <Anchor
