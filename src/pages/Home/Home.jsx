@@ -13,6 +13,13 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <img
+        className='fixed right-0 top-[8vh] h-[100px] w-[100px] sm:h-[150px] sm:w-[150px] md:right-10 md:top-10 md:h-[200px] md:w-[200px]'
+        src='/images/logo-itu-50.png'
+        width={100}
+        height={100}
+        alt='itu logo'
+      />
     </section>
   )
 }
