@@ -1554,11 +1554,11 @@ export const makams = [
       },
       middle: {
         root1: 'Neva',
-        pow1: 'Buselik',
+        pow1: 'Rast',
       },
       end: { root1: 'Dügah', pow1: 'Hicaz' },
     },
-    desc: 'Neva perdesinden başlayan Dügah perdesindeki Hicaz çeşnisi ile başlar. Neva üzerindeki Buselik çeşnisini gösterdikten sonra Dügah perdesindeki Hicaz çeşnisi ile karar verir.',
+    desc: 'Neva perdesinden başlayan Dügah perdesindeki Hicaz çeşnisi ile başlar. Neva üzerindeki Rast çeşnisini gösterdikten sonra Dügah perdesindeki Hicaz çeşnisi ile karar verir.',
     audio: '/records/makamlar/hicaz_nasir_dede.mp3',
   },
   {
